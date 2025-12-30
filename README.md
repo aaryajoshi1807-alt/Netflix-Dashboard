@@ -71,7 +71,7 @@ The objective of this project is to:
 - Useful for media analysts and streaming platform analysis
 - Provides insights into global content distribution
 
-8. Dashboard Preview/Screenshort:-
+8. Dashboard Preview/Screenshort:-https://github.com/aaryajoshi1807-alt/Netflix-Dashboard/blob/main/Netflix%20Dashboard.jpeg
 
 
 9. How to Use
